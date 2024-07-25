@@ -1,5 +1,5 @@
 [package]
-name = "LCM"
+name = "Least_Common_Multiple_Calculator"
 version = "0.1.0"
 edition = "2021"
 
